@@ -56,14 +56,16 @@ public class ProductoController {
 			throw new RuntimeException("No se pudo cargar el producto!");
 		}
 		*/
+		
 		/*
 		try {
-			Thread.sleep(2000L);
+			Thread.sleep(3000L);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		*/
+		
 		
 		return prod;
 	}
