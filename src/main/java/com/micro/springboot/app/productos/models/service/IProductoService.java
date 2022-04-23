@@ -1,7 +1,7 @@
 package com.micro.springboot.app.productos.models.service;
 
 import java.util.List;
-import com.micro.springboot.app.productos.models.entity.Producto;
+import com.micro.springboot.app.commons.models.entity.Producto;
 
 public interface IProductoService {
 	
